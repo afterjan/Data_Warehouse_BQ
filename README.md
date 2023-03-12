@@ -17,7 +17,7 @@ BigQuery
    <img width="457" alt="Screenshot 2023-03-12 at 16 59 53" src="https://user-images.githubusercontent.com/113230789/224537565-956a7d5e-3064-4708-955e-1bbaa6578296.png">
 
 ## **QUERY**
-```
+``` SQL
 WITH tblsource AS (
   SELECT channelGrouping,
           date, 
