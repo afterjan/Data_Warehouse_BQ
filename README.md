@@ -15,7 +15,7 @@ BigQuery
    Table rev_transactions consists of 28 features, here is the schema:
    
    . <img width="457" alt="Screenshot 2023-03-12 at 17 34 02" src="https://user-images.githubusercontent.com/113230789/224539189-08065c35-dbbc-42fc-99df-94827fb2e77c.png">
-
+   
    . <img width="457" alt="Screenshot 2023-03-12 at 17 33 48" src="https://user-images.githubusercontent.com/113230789/224539194-18597e90-a7ee-4f82-9862-d26b5431d904.png">
 
 
