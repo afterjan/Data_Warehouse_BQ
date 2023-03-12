@@ -40,4 +40,4 @@ GROUP BY 1
 <img width="1116" alt="Screenshot 2023-03-12 at 16 26 36" src="https://user-images.githubusercontent.com/113230789/224538382-5deecbc7-d663-4a34-bc52-84b8340025c1.png">
 
 save the results to the bigquery table, now we are done creating the data warehouse in BigQuery!
-for more detail, you can see the result here: https://docs.google.com/spreadsheets/d/1WcembUS2hppA34GZ4y4ClXMOgRaugtnMOkuydFO27bE/edit?usp=sharing
+For more detail, you can see the result here: https://docs.google.com/spreadsheets/d/1WcembUS2hppA34GZ4y4ClXMOgRaugtnMOkuydFO27bE/edit?usp=sharing
